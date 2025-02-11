@@ -14,3 +14,9 @@ Azure Zero to Hero by Abhisheik Veramalla
   Root Management Group --> (Individual/Business Unit) Management Group / Subscriptions(of Root Mng.Grp) -->  Resource Groups --> Resources
 4. Virutal Machine on Azure, VM types - Cost Associated with it.
 5. Azure Policy - Business Rules in JSON(Policy Definitions) - Group of Policies is called Initiative - Advantages
+6. Azure Virtual Machine
+       VM types                        ----->         Series and Sizes                  ----->  family 
+  General Purpose                           ( )                                           ( )
+  Compute, Storage, Memory Optimised            
+  GPU, FGPA Accelerated 
+7. 
